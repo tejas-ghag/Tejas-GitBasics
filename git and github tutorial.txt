@@ -1,0 +1,2 @@
+for comparing 2 files in vs code side by side use the cmd
+code --diff file1.type file2.type
